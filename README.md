@@ -1,6 +1,11 @@
 # Hi there 👋 Welcome to my Github
 # Certs
 ## Credly:
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+
+
 <!--
 **LamTruong-SysOps/LamTruong-SysOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
