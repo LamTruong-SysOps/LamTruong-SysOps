@@ -14,6 +14,6 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: lam-truong-nguyen
+          CREDLY_USER: lamtruong
           CREDLY_SORT: RECENT
           BADGE_SIZE: 110
